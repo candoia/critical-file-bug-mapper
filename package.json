@@ -1,0 +1,16 @@
+{
+  "name": "bug-src-mapper-critical-files",
+  "productName": "Critical Files",
+  "version": "0.0.1",
+  "author": "Nitin Mukesh Tiwari <nmtiwari@iastate.edu>",
+  "description": "Displays files which take oongest time to be fixed.",
+  "main": "main.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/candoia/bug-src-mapper-critical-file"
+  },
+  "icon": {
+  	"type": "fa",
+  	"name": "certificate"
+  }
+}
