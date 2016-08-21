@@ -7,7 +7,7 @@
   "main": "main.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/candoia/bug-src-mapper-critical-file"
+    "url": "https://github.com/candoia/critical-file-bug-mapper"
   },
   "icon": {
   	"type": "fa",
